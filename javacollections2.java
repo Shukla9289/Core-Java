@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-class javacollections{
+class javacollections2{
     public static void main(String[] args) {
         LinkedList<String>SurNames=new LinkedList<String>();
         SurNames.add("Shukla");
